@@ -1,0 +1,45 @@
+/* css reset  */
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+  }
+  #home::before
+  {
+      content: "";
+      position: absolute;
+      background: url('/img/The.png') no-repeat center center/cover;
+      height: 100%;
+      width: 100%;
+      z-index: -1;
+      opacity: 0.9;
+  }
+#homeDiv1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20rem;
+}
+
+#menuSection
+{
+    margin-top: 345px;
+}
+#menuSection h1
+{
+    text-align: center;
+    color: white;
+}
+
+
+
+#menuSection2 h1
+{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: rgb(230, 157, 108);
+}
