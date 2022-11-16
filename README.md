@@ -1,4 +1,4 @@
-# Restraurant_billing_system
+# Restaurant_billing_system
 The “Restaurant Billing System” is an application
 to automate the process of information recording
 and billing of a restaurant. This desktop-based
